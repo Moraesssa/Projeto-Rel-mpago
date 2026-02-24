@@ -1,0 +1,5 @@
+{
+  "name": "UNIFEI Data Science Dashboard",
+  "description": "A digital signage dashboard for a school TV, built as a Data Science project at UNIFEI.",
+  "requestFramePermissions": []
+}
